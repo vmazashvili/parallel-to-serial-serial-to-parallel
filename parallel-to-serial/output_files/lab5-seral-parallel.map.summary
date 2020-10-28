@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Wed Oct 28 04:19:09 2020
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : lab5-seral-parallel
+Top-level Entity Name : baseline_c5gx
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 5
+Total pins : 27
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
